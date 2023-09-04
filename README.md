@@ -1,6 +1,14 @@
 # TLab 2023. Domain-specific content generation
 
-## Изучение научной статьи с описанием метода DreamBooth
+## Обзор статьи
+
+- **Название статьи**: "DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation"
+
+- **Авторы статьи **: Nataniel Ruiz, Yuanzhen Li, Varun Jampani, Yael Pritch, Michael Rubinstein, Kfir Aberman, _Google Research, 2022_
+
+- **Текст статьи**: https://arxiv.org/abs/2208.12242
+
+- **Страница проекта**: https://dreambooth.github.io/
 
 ### Тема и проблематика
 
