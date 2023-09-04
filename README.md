@@ -4,7 +4,7 @@
 
 - **Название статьи**: "DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation"
 
-- **Авторы статьи **: Nataniel Ruiz, Yuanzhen Li, Varun Jampani, Yael Pritch, Michael Rubinstein, Kfir Aberman, _Google Research, 2022_
+- **Авторы статьи**: Nataniel Ruiz, Yuanzhen Li, Varun Jampani, Yael Pritch, Michael Rubinstein, Kfir Aberman, _Google Research, 2022_
 
 - **Текст статьи**: https://arxiv.org/abs/2208.12242
 
