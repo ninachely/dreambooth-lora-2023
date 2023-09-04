@@ -77,8 +77,6 @@
 Ниже представлены несколько иозбражений из датасета ```rc_car```:
 ![Датасет rc_car](images/dataset.png "Рис. 1")
 
-Здесь 
-
 ![LR из статьи](images/small_lr.png "Рис. 2")
 
 ![LR чуть больше](images/medium_lr.png "Рис. 3")
